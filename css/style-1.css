@@ -768,8 +768,11 @@ li{
 	/* background: #ae9e9e; */
 	background: rgba(13, 15, 13, 0.3) /* Green background with 30% opacity */
 } 
-
 .team-preview {
+	background-image: url(/images/pitch-pre.jpeg);
+	width: 94%;
+
+.team-section {
 	background-image: url(/images/pitch-pre.jpeg);
 	width: 94%;
 	margin: auto;
